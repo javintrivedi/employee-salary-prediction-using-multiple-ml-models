@@ -9,7 +9,7 @@ This project compares various regression models to identify the most accurate ap
     <h2>📌 Project Overview</h2>
     <p>
         Salary prediction is a common real-world regression problem in HR analytics.
-        This project demonstrates the complete machine learning workflow including
+        This project demonstrates the complete machine learning workflow, including
         data preprocessing, model training, evaluation, and prediction.
     </p>
 </div>
