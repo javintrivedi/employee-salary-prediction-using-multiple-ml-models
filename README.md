@@ -3,7 +3,6 @@
 A machine learning project built using Python to predict employee salaries based on multiple features.
 This project compares various regression models to identify the most accurate approach.
 </p>
-
 <div class="section">
     <h2>📌 Project Overview</h2>
     <p>
